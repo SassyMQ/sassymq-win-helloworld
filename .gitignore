@@ -1,0 +1,5 @@
+/.ssotme/**
+**/bin/**
+**/obj/**
+**/packages/**
+**/.vs/**
